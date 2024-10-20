@@ -1,6 +1,6 @@
 # eCommerce_Sales_Analysis_Project
 
-Project Overview:
+Project Overview:-
 
 This project conducts an in-depth analysis of eCommerce sales data using Python, Pandas, Matplotlib, Seaborn, and MySQL. The goal is to extract insights from sales data through graphical representations and visualizations, allowing for the identification of key trends that can inform business strategies. Based on the findings, actionable recommendations are provided to enhance future sales performance.
 
