@@ -43,12 +43,19 @@ Geographic Expansion:
 • Focus on regional promotions and discounts to increase sales in low-volume cities.
 
 Technologies Used:
+
 •Python
+
 •Pandas
+
 •Matplotlib
+
 •Seaborn
+
 •MySQL
+
 •SQL
+
 •Jupyter Notebook
 
 Conclusion:
