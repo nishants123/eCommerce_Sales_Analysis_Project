@@ -70,19 +70,19 @@ Recommendations:
 
 Technologies Used:
 
-•Python
+• Python
 
-•Pandas
+• Pandas
 
-•Matplotlib
+• Matplotlib
 
-•Seaborn
+• Seaborn
 
-•MySQL
+• MySQL
 
-•SQL
+• SQL
 
-•Jupyter Notebook
+• Jupyter Notebook
 
 
 Conclusion:
