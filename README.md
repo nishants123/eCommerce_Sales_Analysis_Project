@@ -33,19 +33,19 @@ Tasks:-
 
 Recommendations:
 
-Customer Segment Strategy:
+1.Customer Segment Strategy:
 
 • Implement loyalty programs and exclusive deals in high-customer states to retain and expand your customer base.
 
 • Launch regional marketing campaigns with personalized promotions and free shipping offers for medium- and low-customer states to increase engagement.
 
-Time-Based Strategy:
+2.Time-Based Strategy:
 
 •Introduce seasonal sales or limited-time promotions during low-performing months to drive demand.
 
 •Offer time-specific discounts during low-traffic hours and use push notifications or emails to encourage after-work purchases.
 
-Product-Based Strategy:
+3.Product-Based Strategy:
 
 • Bundle top-performing products with complementary items to increase sales and encourage cross-selling.
 
@@ -53,7 +53,7 @@ Product-Based Strategy:
 
 • Revitalize low-purchase categories with exclusive promotions and content marketing aimed at niche customer groups.
 
-Growth Strategy:
+4.Growth Strategy:
 
 • Revamp marketing efforts by investing in digital campaigns, influencer partnerships, and email marketing.
 
@@ -61,7 +61,7 @@ Growth Strategy:
 
 • Utilize social media ads and targeted marketing to attract new customer segments.
 
-Geographic Expansion:
+5.Geographic Expansion:
 
 • Improve logistics and product offerings in high-volume cities to enhance customer experience and maximize revenue.
 
