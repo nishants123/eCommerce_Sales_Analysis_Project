@@ -6,7 +6,7 @@ This project conducts an in-depth analysis of eCommerce sales data using Python,
 
 Problem Statement:-
 
-Perform an in-depth analysis by leveraging Python, Pandas, Matplotlib, Seaborn, and MySQL. The goal is to analyze sales data, create graphical representations and visualizations to identify key trends and insights. Based on the findings, offer actionable recommendations aimed at increasing future sales.
+Perform an in-depth analysis by leveraging Python, Pandas, Matplotlib, Seaborn, and MySQL. The goal is to analyze sales data and create graphical representations and visualizations to identify key trends and insights. Based on the findings, offer actionable recommendations aimed at increasing future sales and supporting business decision-making.
 
 Tasks:-
 
