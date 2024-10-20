@@ -30,6 +30,7 @@ Tasks:-
 
 •Provide data-driven recommendations for strategies to increase future sales based on the analysis.
 
+
 Recommendations:
 
 Customer Segment Strategy:
@@ -66,6 +67,7 @@ Geographic Expansion:
 
 • Focus on regional promotions and discounts to increase sales in low-volume cities.
 
+
 Technologies Used:
 
 •Python
@@ -81,6 +83,7 @@ Technologies Used:
 •SQL
 
 •Jupyter Notebook
+
 
 Conclusion:
 
